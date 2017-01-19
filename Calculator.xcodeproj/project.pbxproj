@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -190,25 +190,22 @@
 				TargetAttributes = {
 					30B57ACF1E30EE6C00476164 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 276Y5NFX22;
 						ProvisioningStyle = Automatic;
 					};
 					30B57AE01E30EE6C00476164 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 276Y5NFX22;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 30B57ACF1E30EE6C00476164;
 					};
 					30B57AEB1E30EE6C00476164 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 276Y5NFX22;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 30B57ACF1E30EE6C00476164;
 					};
 				};
 			};
 			buildConfigurationList = 30B57ACB1E30EE6C00476164 /* Build configuration list for PBXProject "Calculator" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
